@@ -95,7 +95,7 @@ The Shock Resilience Score (SRS) model and scoring methodology were co-developed
 
 •	03 Project Management: Project Brief.
 
-•	04 Scripts: Python scripts for data analysis, in sub-folders.
+•	6.1 to 6.6 "ESA" folders: Python scripts for data analysis, differentiated by topics.
 
 **Comment:**  The Excel file "Definitions - Original Raw Data Variables.xlsx", in the "Original Data" sub-folder of the "Data" folder, provides definitions for each original raw data variable examined.  The Excel file "SRS Component Data - Rankings.xlsx" in the "Prepared Data" folder, which was uploaded in the Python script file "6.5 Task 6.5 SRS derivation", has the per-country SRS model individual metric rankings.  The Python script file has the SRS model code, metric descriptions and weightings. The Excel file "all_countries_srs_raw_regressions.xlsx", in the "Prepared Data" folder, has the raw data and linear regression results that were used to calculate the per-metric rankings of countries recorded in the "SRS Component Data - Rankings.xlsx" file.
 
